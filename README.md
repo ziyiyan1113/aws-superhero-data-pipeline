@@ -50,6 +50,7 @@ This project demonstrates a simple serverless data pipeline using AWS services â
  - [x] Tested Lambda with sample event and confirmed successful response
 
 ðŸ§ª Sample Output
+
 {
   "statusCode": 200,
   "body": {
